@@ -157,7 +157,7 @@ const Productdecription = () => {
                  </Des>
                 </div>
                 <div>
-                    <Desimg src={item.image !='[Image]' ? details.image : notfound}/>
+                    <Desimg src={item.image !='[Image]' ? item.image : notfound}/>
                 </div>
                 </>
                 :
