@@ -22,10 +22,12 @@ To get started with this project, do the following:
 1. Clone the repository:
 
 ```bash
-git clone git@github.com:some-coder-whowantstocode/styled-components.git
+ git clone git@github.com:some-coder-whowantstocode/styled-components.git
 
-2. Install the dependencies:
+2.Install the dependencies:
 npm install
 
-3. Start the development server:
+3. Go inside client folder
+
+4. Start the development server:
 npm run dev
