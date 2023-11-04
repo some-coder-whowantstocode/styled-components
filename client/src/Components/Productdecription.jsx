@@ -34,7 +34,7 @@ const Description = styled.div`
 
 const Goback = styled.div`
     position: fixed;
-    top: 5px;
+    top: 25px;
     left: 8px;
     height: 30px;
     width: 30px;
